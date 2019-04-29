@@ -1,0 +1,23 @@
+{
+	"folders": [{
+			"name": "project",
+			"path": "."
+		},
+		{
+			"name": "build",
+			"path": "build"
+		},
+		{
+			"name": "script",
+			"path": "src\\scripts"
+		},
+		{
+			"name": "style",
+			"path": "src\\styles"
+		},
+	],
+	"settings": {
+		"liveServer.settings.port": 5560,
+		"liveServer.settings.multiRootWorkspaceName": "build"
+	}
+}
